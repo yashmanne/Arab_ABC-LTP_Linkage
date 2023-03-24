@@ -5,10 +5,10 @@ organization of biological systems. In particular, gene co-expression networks p
 
 Specifically, here is the table of TAIR IDs for potentially linked pairs:
 
-[](./images/top10GeneInter)
+![](./images/top10GeneInter.png)
 
 These results prove to be promising and further exploration of the gene pairs may shed more light on the lipid transport mechanisms of vital cellular pathways.
 
-A full discussion of project results can be found [here](./results/2020-04-24_Manne_FinalReport).
+A full discussion of project results can be found [here](./results/2020-04-24_Manne_FinalReport.pdf).
 
 
